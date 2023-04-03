@@ -1,4 +1,4 @@
-# reactive-flow-Henry-isotherm
+# Reactive flow. Henry isotherm.
 
 All code works fine in Python 3.6.7 and FEniCS 2019.1.0
 
